@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Windyty
+Comment=Map and forcast viewer
+Exec=windyty
+Icon=windyty
+Terminal=false
+Type=Application
+Categories=Peta;
+StartupNotify=true
+

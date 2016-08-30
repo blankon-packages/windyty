@@ -1,0 +1,12 @@
+Source: windyty
+Section: misc
+Priority: extra
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: windyty
+Architecture: all
+Depends: ${misc:Depends}, maleo
+Description: Maps and forcast viewer
+ Maps and forcast viewer run with maleo on BlankOn Linux.
